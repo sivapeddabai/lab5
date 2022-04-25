@@ -1,0 +1,9 @@
+Step 1: The installation of django is being performed 
+Step 2: Project is get started 
+Step 3: The server is made to run and the web server is started. 
+Step 4: The url is accessed and successful implementation is viewed.
+Step 5: The pages are started 
+Step 6: Changes in project setting.py, urls.py, pages apps.py, views.py, urls.py, are made.
+Step 7: The server is ran and the URL is obtained
+Step 8: Obtained URL is accessed and the message is viewed. 
+ 
